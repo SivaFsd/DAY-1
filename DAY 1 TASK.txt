@@ -22,12 +22,3 @@ Object
 2) Object is a collection of named values having state and behavior.
 3) It primitive or reference types, in the form of “key: value” pairs.
 4) These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
-
-(ex)
-	var student = {
-	name:"siva",
-	age:23,
-	year:1999,
-	address:"salem"
-}
-console.log(student);
